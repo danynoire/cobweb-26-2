@@ -1,0 +1,18 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "${group}.${mod_id}.mixin",
+  "compatibilityLevel": "JAVA_${java_version}",
+  "mixins": [
+    "PackRepositoryMixin",
+    "ServerPacksSourceMixin"
+  ],
+  "client": [
+    "client.CreateWorldScreenMixin",
+    "client.MinecraftMixin"
+  ],
+  "server": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
