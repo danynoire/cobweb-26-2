@@ -1,4 +1,4 @@
-![Cobweb banner](https://raw.githubusercontent.com/crystal-nest/mod-fancy-assets/main/cobweb/banner.png "Cobweb banner")
+[![Cobweb banner](https://raw.githubusercontent.com/crystal-nest/mod-fancy-assets/main/cobweb/banner.png "Cobweb banner")](https://modrinth.com/mod/cobweb/)
 
 ---
 
